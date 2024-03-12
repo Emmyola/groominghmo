@@ -1,4 +1,4 @@
-/********** Template CSS primary code 13C5DD**secondary code 354F8E*dark=>1D2A4D*******/
+/*****real colr #973180f*#7A7A7A*54595F*** Template CSS primary code 13C5DD**secondary code 354F8E*dark=>1D2A4D*****f16a88fd//0f9eb1 hover color**/
 :root {
     --primary: #b8173afd;
     --secondary: #f16a88fd;
@@ -98,7 +98,7 @@
 }
 
 .hero-header {
-    background: url(../img/blackman.jpeg) top right no-repeat;
+    background: url(../img/banner-shape-01.png) top right no-repeat;
     background-size: cover;
 }
 
@@ -145,7 +145,7 @@
     height: 50%;
     bottom: 0;
     left: 0;
-    background: var(--primary);
+    background: var(--secondary);
     border-radius: 8px 8px 50% 50%;
     z-index: -1;
 }

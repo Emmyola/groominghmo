@@ -60,20 +60,20 @@
                 <!-- Blog Detail Start -->
                 <div class="mb-5">
                     <img class="img-fluid w-100 rounded mb-5" src="img/blog-2.jpg" alt="">
-                    <h3 class="mb-4">Gold Health Plan Description</h3>
-                        <p>Sadipscing labore amet rebum est et justo gubergren. Et eirmod ipsum sit diam ut
+                    <h3 class="mb-4 text-primary">Gold Health Plan Description</h3>
+                        <p class="text-primary">Sadipscing labore amet rebum est et justo gubergren. Et eirmod ipsum sit diam ut
                             magna lorem. Nonumy vero labore lorem sanctus rebum et lorem magna kasd, stet
                             amet magna accusam consetetur eirmod. Kasd accusam sit ipsum sadipscing et at at
                             sanctus et. Ipsum sit gubergren dolores et, consetetur justo invidunt at et
                             aliquyam ut et vero clita. Diam sea sea no sed dolores diam nonumy, gubergren
                             sit stet no diam kasd vero.
                         </p>
-                    <h4>Benefit Covered</h4>
-                    <div class="d-flex justify-content-between bg-light rounded p-4 mt-4">
-                        <table class="table">
+                    <h4 class="text-primary">Benefit Covered</h4>
+                    <div class="d-flex justify-content-between bg-primary rounded p-4 mt-4">
+                        <table class="table" style="color:#ffff !important;">
                             <!-- OUT PATIENT-->
-                            <thead style="text-align: center !important; background-color: blue !importtant;">
-                                <tr>
+                            <thead style="text-align: center !important;">
+                                <tr style="background-color:green !important;">
                                 <th scope="col">OUT PATIENT BENEFITS(Up to  Limit of 250000)</th>
                                 <th scope="col">STATUS</th>
                                 <!-- <th scope="col">First</th>
@@ -82,7 +82,7 @@
                                 </tr>
                             </thead>
                             <tbody style="text-align: center !important; ">
-                                <tr style="text: blue !important;">
+                                <tr>
                                     <th scope="row">General Consultation, Specialist Consultation, Out Patient Care including Laboratory Investigations, Basic Imaging (X-Ray & USS)</th>
                                     <td>Covered</td>
                                     <tr>
@@ -96,7 +96,7 @@
                                 </tr>
                             </tbody>
                             <!-- IN PATIENT-->
-                            <thead style="text-align: center !important; background-color: blue !importtant;">
+                            <thead style="text-align: center !important; background-color:green !important;">
                                 <tr>
                                 <th scope="col">IN-PATIENT BENEFIT (Up to  Limit of 350000)</th>
                                 <th scope="col">STATUS</th>
@@ -117,7 +117,7 @@
                                 </tr>
                             </tbody>
                             <!-- MAJOR DETAILS -->
-                            <thead style="text-align: center !important; background-color: blue !importtant;">
+                            <thead style="text-align: center !important; background-color:green !important;">
                                 <tr>
                                 <th scope="col">MAJOR DISEASE CONDITION BENEFITS (6 Months waiting period)</th>
                                 <th scope="col">STATUS</th>
@@ -130,7 +130,7 @@
                                 </tr>
                             </tbody>
                             <!-- REPRODUCTIVE DETAILS --> 
-                            <thead style="text-align: center !important; background-color: blue !importtant;">
+                            <thead style="text-align: center !important; background-color:green !important;">
                                 <tr>
                                 <th scope="col"> REPRODUCTIVE HEALTH BENEFIT (3 Months waiting period)</th>
                                 <th scope="col">STATUS</th>
@@ -147,7 +147,7 @@
                                 </tr>
                             </tbody>
                             <!-- MATERNAL DETAILS --> 
-                            <thead style="text-align: center !important; background-color: blue !importtant;">
+                            <thead style="text-align: center !important; background-color:green !important;">
                                 <tr>
                                 <th scope="col"> MATERNAL BENEFITS (12 Months waiting period) </th>
                                 <th scope="col">STATUS</th>
@@ -176,7 +176,7 @@
                                 </tr>
                             </tbody>
                             <!-- NEONATAL DETAILS -->
-                            <thead style="text-align: center !important; background-color: blue !importtant;">
+                            <thead style="text-align: center !important; background-color:green !important;">
                                 <tr>
                                 <th scope="col">NEONATAL CARE (12 Months waiting period) Up to 200,000 Limit</th>
                                 <th scope="col">STATUS</th>
@@ -197,7 +197,7 @@
                                 </tr>
                             </tbody>
                             <!-- PEDIATRIC DETAILS -->
-                            <thead style="text-align: center !important; background-color: blue !importtant;">
+                            <thead style="text-align: center !important; background-color:green !important;">
                                 <tr>
                                 <th scope="col">PEDIATRIC CARE (6 Months waiting period)</th>
                                 <th scope="col">STATUS</th>
@@ -210,7 +210,7 @@
                                 </tr>
                             </tbody>
                             <!-- PEDIATRIC DETAILS -->
-                            <thead style="text-align: center !important; background-color: blue !importtant;">
+                            <thead style="text-align: center !important; background-color:green !important;">
                                 <tr>
                                 <th scope="col">ACCIDENTS & EMERGENCY BENEFIT (Part of In-patient Limit) up to 150,000.00</th>
                                 <th scope="col">STATUS</th>
@@ -227,7 +227,7 @@
                                 </tr>
                             </tbody>
                             <!-- optical DETAILS -->
-                            <thead style="text-align: center !important; background-color: blue !importtant;">
+                            <thead style="text-align: center !important; background-color:green !important;">
                                 <tr>
                                 <th scope="col">OPTICAL CARE BENEFIT (6 Months waiting period) Up to 12,500.00</th>
                                 <th scope="col">STATUS</th>
@@ -240,7 +240,7 @@
                                 </tr>
                             </tbody>
                             <!-- DENTAL DETAILS -->
-                            <thead style="text-align: center !important; background-color: blue !importtant;">
+                            <thead style="text-align: center !important; background-color: background-color:green !important;">
                                 <tr>
                                 <th scope="col">DENTAL CARE BENEFIT (6 Months waiting period)</th>
                                 <th scope="col">STATUS</th>
@@ -253,7 +253,7 @@
                                 </tr>
                             </tbody>
                             <!-- PHYSIOTHERAPY DETAILS -->
-                            <thead style="text-align: center !important; background-color: blue !importtant;">
+                            <thead style="text-align: center !important; background-color:green !important;">
                                 <tr>
                                 <th scope="col">PHYSIOTHERAPY SERVICES (6 Months waiting period)</th>
                                 <th scope="col">STATUS</th>
@@ -266,7 +266,7 @@
                                 </tr>
                             </tbody>
                             <!-- DIAGNOSTIC DETAILS -->
-                            <thead style="text-align: center !important; background-color: blue !importtant;">
+                            <thead style="text-align: center !important; background-color:green !important;">
                                 <tr>
                                 <th scope="col">DIAGNOSTIC SERVICES</th>
                                 <th scope="col">STATUS</th>
@@ -283,7 +283,7 @@
                                 </tr>
                             </tbody>
                             <!-- PRE EXISTING DETAILS -->
-                            <thead style="text-align: center !important; background-color: blue !importtant;">
+                            <thead style="text-align: center !important; background-color:green !important;">
                                 <tr>
                                 <th scope="col">PRE EXISTING/ CHRONIC CONDITION</th>
                                 <th scope="col">STATUS</th>
@@ -296,7 +296,7 @@
                                 </tr>
                             </tbody>
                             <!-- PRE EXISTING DETAILS -->
-                            <thead style="text-align: center !important; background-color: blue !importtant;">
+                            <thead style="text-align: center !important; background-color:green !important;">
                                 <tr>
                                 <th scope="col">OTHER SERVICES/BENEFITS (18 Months waiting period)</th>
                                 <th scope="col">STATUS</th>

@@ -45,8 +45,8 @@
     <!-- Navbar End -->
 
 
-    <!-- About Start -->
-    <div class="container-fluid py-5">
+     <!-- About Start -->
+     <div class="container-fluid py-5">
         <div class="container">
             <div class="row gx-5">
                 <div class="col-lg-5 mb-5 mb-lg-0" style="min-height: 500px;">
@@ -57,33 +57,33 @@
                 <div class="col-lg-7">
                     <div class="mb-4">
                         <h5 class="d-inline-block text-primary text-uppercase border-bottom border-5">About Us</h5>
-                        <h3 class="display-4">Best Medical Care For Yourself and Your Family</h3>
+                        <h1 class="display-4 text-primary">Best Medical Care For Yourself and Your Family</h1>
                     </div>
-                    <p> <strong>Grooming Health Management Limited(GHML) </strong> is a dynamic and responsive health maintenance organization powered by technology and leveraging on data analytics to offer our valuable clients improved health care delivery services. As a reputable HMO, we are committed to delivering high-quality healthcare solutions that prioritize the well-being of our clients.
+                    <p> <strong class="text-primary">Grooming Health Management Limited(GHML) </strong> is a dynamic and responsive health maintenance organization powered by technology and leveraging on data analytics to offer our valuable clients improved health care delivery services. As a reputable HMO, we are committed to delivering high-quality healthcare solutions that prioritize the well-being of our clients.
                         In today's fast-paced world, ensuring comprehensive healthcare coverage for employees is not only essential for their well-being but also for fostering a productive and thriving work environment. At GHML, we have robust healthcare benefit and we are committed to delivering top-tier Healthcare services tailored to meet the unique needs of your esteemed organization.</p>
-                    <div class="row g-3 pt-3">
+                        <div class="row g-3 pt-3">
                         <div class="col-sm-3 col-6">
-                            <div class="bg-light text-center rounded-circle py-4">
-                                <i class="fa fa-3x fa-user-md text-primary mb-3"></i>
-                                <h6 class="mb-0">Accurate<small class="d-block text-primary">Provider</small></h6>
+                            <div class="bg-primary text-center rounded-circle py-4">
+                                <i class="fa fa-3x fa-user-md text-white mb-3"></i>
+                                <h6 class="mb-0">Accurate<small class="d-block text-white">Provider</small></h6>
                             </div>
                         </div>
                         <div class="col-sm-3 col-6">
-                            <div class="bg-light text-center rounded-circle py-4">
-                                <i class="fa fa-3x fa-procedures text-primary mb-3"></i>
-                                <h6 class="mb-0">Emergency<small class="d-block text-primary">Services</small></h6>
+                            <div class="bg-primary text-center rounded-circle py-4">
+                                <i class="fa fa-3x fa-procedures text-white mb-3"></i>
+                                <h6 class="mb-0">Emergency<small class="d-block text-white">Services</small></h6>
                             </div>
                         </div>
                         <div class="col-sm-3 col-6">
-                            <div class="bg-light text-center rounded-circle py-4">
-                                <i class="fa fa-3x fa-microscope text-primary mb-3"></i>
-                                <h6 class="mb-0">Accurate<small class="d-block text-primary">Testing</small></h6>
+                            <div class="bg-primary text-center rounded-circle py-4">
+                                <i class="fa fa-3x fa-microscope text-white mb-3"></i>
+                                <h6 class="mb-0">Accurate<small class="d-block text-white">Testing</small></h6>
                             </div>
                         </div>
                         <div class="col-sm-3 col-6">
-                            <div class="bg-light text-center rounded-circle py-4">
-                                <i class="fa fa-3x fa-ambulance text-primary mb-3"></i>
-                                <h6 class="mb-0">Stand-by<small class="d-block text-primary">Ambulance</small></h6>
+                            <div class="bg-primary text-center rounded-circle py-4">
+                                <i class="fa fa-3x fa-ambulance text-white mb-3"></i>
+                                <h6 class="mb-0">Stand-by<small class="d-block text-white">Ambulance</small></h6>
                             </div>
                         </div>
                     </div>
@@ -93,9 +93,44 @@
     </div>
     <!-- About End -->
 
-
+        <!-- mission and vision -->
+        <div class="container-fluid py-5">
+            <div class="container">
+                <div class="row gx-4">
+                    <div class="col-lg-7">
+                        <div class="row g-3 pt-3">
+                            <div class="col-sm-3 col-6">
+                                <div class="bg-primary text-center rounded-circle py-4">
+                                    <i class="fa fa-3x fa-user-md text-white mb-3"></i>
+                                    <h6 class="mb-0">Accurate<small class="d-block text-white">Provider</small></h6>
+                                </div>
+                            </div>
+                            <div class="col-sm-3 col-6">
+                                <div class="bg-primary text-center rounded-circle py-4">
+                                    <i class="fa fa-3x fa-procedures text-white mb-3"></i>
+                                    <h6 class="mb-0">Emergency<small class="d-block text-white">Services</small></h6>
+                                </div>
+                            </div>
+                            <div class="col-sm-3 col-6">
+                                <div class="bg-primary text-center rounded-circle py-4">
+                                    <i class="fa fa-3x fa-microscope text-white mb-3"></i>
+                                    <h6 class="mb-0">Accurate<small class="d-block text-white">Testing</small></h6>
+                                </div>
+                            </div>
+                            <div class="col-sm-3 col-6">
+                                <div class="bg-primary text-center rounded-circle py-4">
+                                    <i class="fa fa-3x fa-ambulance text-white mb-3"></i>
+                                    <h6 class="mb-0">Stand-by<small class="d-block text-white">Ambulance</small></h6>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- mission and vision ends -->
     <!-- Search Start -->
-    <div class="container-fluid bg-primary my-5 py-5">
+    <!-- <div class="container-fluid bg-primary my-5 py-5">
         <div class="container py-5">
             <div class="text-center mx-auto mb-5" style="max-width: 500px;">
                 <h5 class="d-inline-block text-white text-uppercase border-bottom border-5">Find A Doctor</h5>
@@ -115,7 +150,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Search End -->
 
 
@@ -124,7 +159,7 @@
         <div class="container">
             <div class="text-center mx-auto mb-5" style="max-width: 500px;">
                 <h5 class="d-inline-block text-primary text-uppercase border-bottom border-5">Our Doctors</h5>
-                <h1 class="display-4">Qualified Healthcare Professionals</h1>
+                <h1 class="display-4 text-primary">Qualified Healthcare Professionals</h1>
             </div>
             <div class="owl-carousel team-carousel position-relative">
                 <div class="team-item">
@@ -133,8 +168,8 @@
                             <img class="img-fluid h-100" src="img/team-1.jpg" style="object-fit: cover;">
                         </div>
                         <div class="col-12 col-sm-7 h-100 d-flex flex-column">
-                            <div class="mt-auto p-4">
-                                <h3>Doctor Name</h3>
+                            <div class="mt-auto p-4 text-primary text-primary">
+                                <h3 class="text-primary">Doctor Name</h3>
                                 <h6 class="fw-normal fst-italic text-primary mb-4">Cardiology Specialist</h6>
                                 <p class="m-0">Dolor lorem eos dolor duo eirmod sea. Dolor sit magna rebum clita rebum dolor</p>
                             </div>
@@ -152,8 +187,8 @@
                             <img class="img-fluid h-100" src="img/team-2.jpg" style="object-fit: cover;">
                         </div>
                         <div class="col-12 col-sm-7 h-100 d-flex flex-column">
-                            <div class="mt-auto p-4">
-                                <h3>Doctor Name</h3>
+                            <div class="mt-auto p-4 text-primary">
+                                <h3 class="text-primary">Doctor Name</h3>
                                 <h6 class="fw-normal fst-italic text-primary mb-4">Cardiology Specialist</h6>
                                 <p class="m-0">Dolor lorem eos dolor duo eirmod sea. Dolor sit magna rebum clita rebum dolor</p>
                             </div>
@@ -171,8 +206,8 @@
                             <img class="img-fluid h-100" src="img/team-3.jpg" style="object-fit: cover;">
                         </div>
                         <div class="col-12 col-sm-7 h-100 d-flex flex-column">
-                            <div class="mt-auto p-4">
-                                <h3>Doctor Name</h3>
+                            <div class="mt-auto p-4 text-primary">
+                                <h3 class="text-primary">Doctor Name</h3>
                                 <h6 class="fw-normal fst-italic text-primary mb-4">Cardiology Specialist</h6>
                                 <p class="m-0">Dolor lorem eos dolor duo eirmod sea. Dolor sit magna rebum clita rebum dolor</p>
                             </div>
@@ -187,6 +222,7 @@
             </div>
         </div>
     </div>
+    <!-- Team End -->
 
     <!-- Team End -->
     <?php include_once("conponent/footer.php"); ?>

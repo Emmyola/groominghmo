@@ -16,11 +16,11 @@
         <div class="container py-5">
             <div class="row justify-content-start">
                 <div class="col-lg-8 text-center text-lg-start">
-                    <h5 class="d-inline-block text-primary text-uppercase border-bottom border-5" style="border-color: rgba(256, 256, 256, .3) !important;">Welcome To </h5>
-                    <h2 class="display-1 text-primary mb-md-4">Grooming Health Management Healthcare</h2>
+                    <h5 class="d-inline-block text-white text-uppercase border-bottom border-5" style="border-color: dark !important;">Welcome To </h5>
+                    <h2 class="display-1 text-white mb-md-4">Grooming Health Management Healthcare</h2>
                     <div class="pt-2">
                         <a href="" class="btn btn-light rounded-pill py-md-3 px-md-5 mx-2">Find Provider</a>
-                        <a href="" class="btn btn-outline-light rounded-pill py-md-3 px-md-5 mx-2">Get A Quote</a>
+                        <a href="" class="btn btn-outline-light rounded-pill py-md-3 px-md-5 mx-0 text-white">Get A Quote</a>
                     </div>
                 </div>
             </div>
@@ -41,33 +41,33 @@
                 <div class="col-lg-7">
                     <div class="mb-4">
                         <h5 class="d-inline-block text-primary text-uppercase border-bottom border-5">About Us</h5>
-                        <h1 class="display-4">Best Medical Care For Yourself and Your Family</h1>
+                        <h1 class="display-4 text-primary">Best Medical Care For Yourself and Your Family</h1>
                     </div>
-                    <p> <strong>Grooming Health Management Limited(GHML) </strong> is a dynamic and responsive health maintenance organization powered by technology and leveraging on data analytics to offer our valuable clients improved health care delivery services. As a reputable HMO, we are committed to delivering high-quality healthcare solutions that prioritize the well-being of our clients.
+                    <p> <strong class="text-primary">Grooming Health Management Limited(GHML) </strong> is a dynamic and responsive health maintenance organization powered by technology and leveraging on data analytics to offer our valuable clients improved health care delivery services. As a reputable HMO, we are committed to delivering high-quality healthcare solutions that prioritize the well-being of our clients.
                         In today's fast-paced world, ensuring comprehensive healthcare coverage for employees is not only essential for their well-being but also for fostering a productive and thriving work environment. At GHML, we have robust healthcare benefit and we are committed to delivering top-tier Healthcare services tailored to meet the unique needs of your esteemed organization.</p>
                         <div class="row g-3 pt-3">
                         <div class="col-sm-3 col-6">
-                            <div class="bg-light text-center rounded-circle py-4">
-                                <i class="fa fa-3x fa-user-md text-primary mb-3"></i>
-                                <h6 class="mb-0">Accurate<small class="d-block text-primary">Provider</small></h6>
+                            <div class="bg-primary text-center rounded-circle py-4">
+                                <i class="fa fa-3x fa-user-md text-white mb-3"></i>
+                                <h6 class="mb-0">Accurate<small class="d-block text-white">Provider</small></h6>
                             </div>
                         </div>
                         <div class="col-sm-3 col-6">
-                            <div class="bg-light text-center rounded-circle py-4">
-                                <i class="fa fa-3x fa-procedures text-primary mb-3"></i>
-                                <h6 class="mb-0">Emergency<small class="d-block text-primary">Services</small></h6>
+                            <div class="bg-primary text-center rounded-circle py-4">
+                                <i class="fa fa-3x fa-procedures text-white mb-3"></i>
+                                <h6 class="mb-0">Emergency<small class="d-block text-white">Services</small></h6>
                             </div>
                         </div>
                         <div class="col-sm-3 col-6">
-                            <div class="bg-light text-center rounded-circle py-4">
-                                <i class="fa fa-3x fa-microscope text-primary mb-3"></i>
-                                <h6 class="mb-0">Accurate<small class="d-block text-primary">Testing</small></h6>
+                            <div class="bg-primary text-center rounded-circle py-4">
+                                <i class="fa fa-3x fa-microscope text-white mb-3"></i>
+                                <h6 class="mb-0">Accurate<small class="d-block text-white">Testing</small></h6>
                             </div>
                         </div>
                         <div class="col-sm-3 col-6">
-                            <div class="bg-light text-center rounded-circle py-4">
-                                <i class="fa fa-3x fa-ambulance text-primary mb-3"></i>
-                                <h6 class="mb-0">Stand-by<small class="d-block text-primary">Ambulance</small></h6>
+                            <div class="bg-primary text-center rounded-circle py-4">
+                                <i class="fa fa-3x fa-ambulance text-white mb-3"></i>
+                                <h6 class="mb-0">Stand-by<small class="d-block text-white">Ambulance</small></h6>
                             </div>
                         </div>
                     </div>
@@ -83,112 +83,112 @@
         <div class="container">
             <div class="text-center mx-auto mb-5" style="max-width: 500px;">
                 <h5 class="d-inline-block text-primary text-uppercase border-bottom border-5">Services</h5>
-                <h1 class="display-4">Excellent Medical Services</h1>
+                <h1 class="display-4 text-primary">Excellent Medical Services</h1>
             </div>
             <div class="row g-5">
                 <div class="col-lg-4 col-md-6">
-                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                    <div class="service-item bg-primary rounded d-flex flex-column align-items-center justify-content-center text-center">
                         <div class="service-icon mb-4">
-                            <i class="fa fa-2x fa-user-md text-white"></i>
+                            <i class="fa fa-5x fa-user-md text-white"></i>
                         </div>
-                        <h4 class="mb-3">Optical Care</h4>
-                        <p class="mb-0">Optical care is essential for maintaining overall well-being and quality of life. Regular eye check-ups and appropriate corrective measures to optimal eye health and visual comfort.</p>
+                        <h4 class="mb-3 text-white">Optical Care</h4>
+                        <p class="mb-0 text-white">Optical care is essential for maintaining overall well-being and quality of life. Regular eye check-ups and appropriate corrective measures to optimal eye health and visual comfort.</p>
                         <a class="btn btn-lg btn-primary rounded-pill" href="">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
-                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                    <div class="service-item bg-primary rounded d-flex flex-column align-items-center justify-content-center text-center">
                         <div class="service-icon mb-4">
-                            <i class="fa fa-2x fa-procedures text-white"></i>
+                            <i class="fa fa-5x fa-procedures text-white"></i>
                         </div>
-                        <h4 class="mb-3">Physiotherapy</h4>
-                        <p class="m-0">An Healthcare professional that focuses on enhancing and restoring the physical functionality and mobility of individuals who may be affected by injury, illness, or disability.</p>
+                        <h4 class="mb-3 text-white">Physiotherapy</h4>
+                        <p class="m-0 text-white">An Healthcare professional that focuses on enhancing and restoring the physical functionality and mobility of individuals who may be affected by injury, illness, or disability.</p>
                         <a class="btn btn-lg btn-primary rounded-pill" href="">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
-                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                    <div class="service-item bg-primary rounded d-flex flex-column align-items-center justify-content-center text-center">
                         <div class="service-icon mb-4">
-                            <i class="fa fa-2x fa-stethoscope text-white"></i>
+                            <i class="fa fa-5x fa-stethoscope text-white"></i>
                         </div>
-                        <h4 class="mb-3">Dental Care</h4>
-                        <p class="m-0">Dental care encompasses a range of preventive, diagnostic, and therapeutic services aimed at maintaining oral health and addressing dental issues. It involves regular dental check-ups.</p>
+                        <h4 class="mb-3 text-white">Dental Care</h4>
+                        <p class="m-0 text-white">Dental care encompasses a range of preventive, diagnostic, and therapeutic services aimed at maintaining oral health and addressing dental issues. It involves regular dental check-ups.</p>
                         <a class="btn btn-lg btn-primary rounded-pill" href="">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
-                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                    <div class="service-item bg-primary rounded d-flex flex-column align-items-center justify-content-center text-center">
                         <div class="service-icon mb-4">
-                            <i class="fa fa-2x fa-ambulance text-white"></i>
+                            <i class="fa fa-5x fa-ambulance text-white"></i>
                         </div>
-                        <h4 class="mb-3">Ambulance Services</h4>
-                        <p class="m-0">Ambulance services are specialized medical transport services equipped to respond quickly to emergencies, accidents, or critical health conditions.</p>
+                        <h4 class="mb-3 text-white">Ambulance Services</h4>
+                        <p class="m-0 text-white">Ambulance services are specialized medical transport services equipped to respond quickly to emergencies, accidents, or critical health conditions.</p>
                         <a class="btn btn-lg btn-primary rounded-pill" href="">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
-                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                    <div class="service-item bg-primary rounded d-flex flex-column align-items-center justify-content-center text-center">
                         <div class="service-icon mb-4">
-                            <i class="fa fa-2x fa-pills text-white"></i>
+                            <i class="fa fa-5x fa-pills text-white"></i>
                         </div>
-                        <h4 class="mb-3">Diagnostic Services</h4>
-                        <p class="m-0">Diagnostic services in healthcare involve a variety of procedures and tests designed to investigate, identify, and monitor medical conditions</p>
+                        <h4 class="mb-3 text-white">Diagnostic Services</h4>
+                        <p class="m-0 text-white">Diagnostic services in healthcare involve a variety of procedures and tests designed to investigate, identify, and monitor medical conditions</p>
                         <a class="btn btn-lg btn-primary rounded-pill" href="">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
-                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                    <div class="service-item bg-primary rounded d-flex flex-column align-items-center justify-content-center text-center">
                         <div class="service-icon mb-4">
-                            <i class="fa fa-2x fa-microscope text-white"></i>
+                            <i class="fa fa-5x fa-microscope text-white"></i>
                         </div>
-                        <h4 class="mb-3">General Surgery</h4>
-                        <p class="m-0">General surgeons are skilled in performing various surgical procedures, often addressing conditions related to the abdomen, digestive system, breast, skin, and other areas.</p>
+                        <h4 class="mb-3 text-white">General Surgery</h4>
+                        <p class="m-0 text-white">General surgeons are skilled in performing various surgical procedures, often addressing conditions related to the abdomen, digestive system, breast, skin, and other areas.</p>
                         <a class="btn btn-lg btn-primary rounded-pill" href="">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
-                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                    <div class="service-item bg-primary rounded d-flex flex-column align-items-center justify-content-center text-center">
                         <div class="service-icon mb-4">
-                            <i class="fa fa-2x fa-microscope text-white"></i>
+                            <i class="fa fa-5x fa-microscope text-white"></i>
                         </div>
-                        <h4 class="mb-3">Psychiatry Surgery</h4>
-                        <p class="m-0">Psychiatry focuses on the diagnosis, treatment, and prevention of mental health disorders using non-surgical methods such as therapy, counseling, and medications.</p>
+                        <h4 class="mb-3 text-white">Psychiatry Surgery</h4>
+                        <p class="m-0 text-white">Psychiatry focuses on the diagnosis, treatment, and prevention of mental health disorders using non-surgical methods such as therapy, counseling, and medications.</p>
                         <a class="btn btn-lg btn-primary rounded-pill" href="">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
-                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                    <div class="service-item bg-primary rounded d-flex flex-column align-items-center justify-content-center text-center">
                         <div class="service-icon mb-4">
-                            <i class="fa fa-2x fa-pills text-white"></i>
+                            <i class="fa fa-5x fa-pills text-white"></i>
                         </div>
-                        <h4 class="mb-3">Intensive Care</h4>
-                        <p class="m-0">Intensive care is a specialized area within a hospital dedicated to the comprehensive medical care of critically ill patients to provide a continuous round-the-clock.</p>
+                        <h4 class="mb-3 text-white">Intensive Care</h4>
+                        <p class="m-0 text-white">Intensive care is a specialized area within a hospital dedicated to the comprehensive medical care of critically ill patients to provide a continuous round-the-clock.</p>
                         <a class="btn btn-lg btn-primary rounded-pill" href="">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
-                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                    <div class="service-item bg-primary rounded d-flex flex-column align-items-center justify-content-center text-center">
                         <div class="service-icon mb-4">
-                            <i class="fa fa-2x fa-user text-white"></i>
+                            <i class="fa fa-5x fa-user text-white"></i>
                         </div>
-                        <h4 class="mb-3">Maternity Care</h4>
-                        <p class="m-0">Maternity care is a specialized branch of healthcare focused on supporting women throughout the journey of pregnancy, childbirth, and the postpartum period</p>
+                        <h4 class="mb-3 text-white">Maternity Care</h4>
+                        <p class="m-0 text-white">Maternity care is a specialized branch of healthcare focused on supporting women throughout the journey of pregnancy, childbirth, and the postpartum period</p>
                         <a class="btn btn-lg btn-primary rounded-pill" href="">
                             <i class="bi bi-arrow-right"></i>
                         </a>
@@ -207,27 +207,27 @@
                 <div class="col-lg-6 mb-5 mb-lg-0">
                     <div class="mb-4">
                         <h5 class="d-inline-block text-white text-uppercase border-bottom border-5">Request Quote</h5>
-                        <h1 class="display-4">Get a Plan For Your Family</h1>
+                        <h1 class="display-4 text-white">Get a Plan For Your Family</h1>
                     </div>
-                    <p class="text-white mb-5">Health plan is a comprehensive healthcare coverage that provides medical benefits to all members of a family under a single insurance policy. This type of health insurance is designed to address the healthcare needs of an entire family, ensuring that each member has access to necessary medical services</p>
+                    <p class="text-white mb-6">Health plan is a comprehensive healthcare coverage that provides medical benefits to all members of a family under a single insurance policy. This type of health insurance is designed to address the healthcare needs of an entire family, ensuring that each member has access to necessary medical services</p>
                     <a class="btn btn-dark rounded-pill py-3 px-5 me-3" href="">Find Provider</a>
-                    <a class="btn btn-outline-dark rounded-pill py-3 px-5" href="">Read More</a>
+                    <a class="btn btn-outline-light rounded-pill py-3 px-5" href="">Read More</a>
                 </div>
                 <div class="col-lg-6">
                     <div class="bg-white text-center rounded p-5">
-                        <h1 class="mb-4">Get A Quote</h1>
+                        <h1 class="mb-4 text-primary">Get A Quote</h1>
                         <form>
                             <div class="row g-3">
                                 <div class="col-12 col-sm-6">
-                                    <select class="form-select bg-light border-0" style="height: 55px;">
-                                        <option selected>Choose Department</option>
+                                    <select class="form-select border-0" style="height: 55px; background-color:#d9d9d9 !important;">
+                                        <option selected style="color:#000 !important;">Choose Department</option>
                                         <option value="1">Department 1</option>
                                         <option value="2">Department 2</option>
                                         <option value="3">Department 3</option>
                                     </select>
                                 </div>
                                 <div class="col-12 col-sm-6">
-                                    <select class="form-select bg-light border-0" style="height: 55px;">
+                                    <select class="form-select border-0" style="height: 55px; background-color:#d9d9d9 !important;">
                                         <option selected>Select Doctor</option>
                                         <option value="1">Doctor 1</option>
                                         <option value="2">Doctor 2</option>
@@ -235,23 +235,23 @@
                                     </select>
                                 </div>
                                 <div class="col-12 col-sm-6">
-                                    <input type="text" class="form-control bg-light border-0" placeholder="Your Name" style="height: 55px;">
+                                    <input type="text" class="form-control border-0" placeholder="Your Name" style="height: 55px; background-color:#d9d9d9 !important;">
                                 </div>
                                 <div class="col-12 col-sm-6">
-                                    <input type="email" class="form-control bg-light border-0" placeholder="Your Email" style="height: 55px;">
+                                    <input type="email" class="form-control border-0" placeholder="Your Email" style="height: 55px; background-color:#d9d9d9 !important;">
                                 </div>
                                 <div class="col-12 col-sm-6">
                                     <div class="date" id="date" data-target-input="nearest">
                                         <input type="date"
-                                            class="form-control bg-light border-0 datetimepicker-input"
-                                            placeholder="Date" data-target="#date" data-toggle="datetimepicker" style="height: 55px;">
+                                            class="form-control border-0 datetimepicker-input"
+                                            placeholder="Date" data-target="#date" data-toggle="datetimepicker" style="height: 55px; background-color:#d9d9d9 !important;">
                                     </div>
                                 </div>
                                 <div class="col-12 col-sm-6">
                                     <div class="time" id="time" data-target-input="nearest">
                                         <input type="text"
-                                            class="form-control bg-light border-0 datetimepicker-input"
-                                            placeholder="Time" data-target="#time" data-toggle="datetimepicker" style="height: 55px;">
+                                            class="form-control border-0 datetimepicker-input"
+                                            placeholder="Time" data-target="#time" data-toggle="datetimepicker" style="height: 55px; background-color:#d9d9d9 !important;">
                                     </div>
                                 </div>
                                 <div class="col-12">
@@ -277,7 +277,7 @@
         <div class="container">
             <div class="text-center mx-auto mb-5" style="max-width: 500px;">
                 <h5 class="d-inline-block text-primary text-uppercase border-bottom border-5">Our Doctors</h5>
-                <h1 class="display-4">Qualified Healthcare Professionals</h1>
+                <h1 class="display-4 text-primary">Qualified Healthcare Professionals</h1>
             </div>
             <div class="owl-carousel team-carousel position-relative">
                 <div class="team-item">
@@ -286,8 +286,8 @@
                             <img class="img-fluid h-100" src="img/team-1.jpg" style="object-fit: cover;">
                         </div>
                         <div class="col-12 col-sm-7 h-100 d-flex flex-column">
-                            <div class="mt-auto p-4">
-                                <h3>Doctor Name</h3>
+                            <div class="mt-auto p-4 text-primary text-primary">
+                                <h3 class="text-primary">Doctor Name</h3>
                                 <h6 class="fw-normal fst-italic text-primary mb-4">Cardiology Specialist</h6>
                                 <p class="m-0">Dolor lorem eos dolor duo eirmod sea. Dolor sit magna rebum clita rebum dolor</p>
                             </div>
@@ -305,8 +305,8 @@
                             <img class="img-fluid h-100" src="img/team-2.jpg" style="object-fit: cover;">
                         </div>
                         <div class="col-12 col-sm-7 h-100 d-flex flex-column">
-                            <div class="mt-auto p-4">
-                                <h3>Doctor Name</h3>
+                            <div class="mt-auto p-4 text-primary">
+                                <h3 class="text-primary">Doctor Name</h3>
                                 <h6 class="fw-normal fst-italic text-primary mb-4">Cardiology Specialist</h6>
                                 <p class="m-0">Dolor lorem eos dolor duo eirmod sea. Dolor sit magna rebum clita rebum dolor</p>
                             </div>
@@ -324,8 +324,8 @@
                             <img class="img-fluid h-100" src="img/team-3.jpg" style="object-fit: cover;">
                         </div>
                         <div class="col-12 col-sm-7 h-100 d-flex flex-column">
-                            <div class="mt-auto p-4">
-                                <h3>Doctor Name</h3>
+                            <div class="mt-auto p-4 text-primary">
+                                <h3 class="text-primary">Doctor Name</h3>
                                 <h6 class="fw-normal fst-italic text-primary mb-4">Cardiology Specialist</h6>
                                 <p class="m-0">Dolor lorem eos dolor duo eirmod sea. Dolor sit magna rebum clita rebum dolor</p>
                             </div>
@@ -344,12 +344,12 @@
 
 
     <!-- Search Start -->
-    <div class="container-fluid bg-primary my-5 py-5">
+    <!-- <div class="container-fluid bg-primary my-5 py-5">
         <div class="container py-5">
             <div class="text-center mx-auto mb-5" style="max-width: 500px;">
-                <h5 class="d-inline-block text-white text-uppercase border-bottom border-5">Find A Doctor</h5>
-                <h1 class="display-4 mb-4">Find A Healthcare Professionals</h1>
-                <h5 class="text-white fw-normal">Duo ipsum erat stet dolor sea ut nonumy tempor. Tempor duo lorem eos sit sed ipsum takimata ipsum sit est. Ipsum ea voluptua ipsum sit justo</h5>
+                <h5 class="d-inline-block text-white text-uppercase border-bottom border-5">Find A Provider</h5>
+                <h1 class="display-4 mb-4">Healthcare Professionals</h1>
+                <h5 class="text-white fw-normal">Healthcare coverage for employees is not only essential for their well-being</h5>
             </div>
             <div class="mx-auto" style="width: 100%; max-width: 600px;">
                 <div class="input-group">
@@ -364,7 +364,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Search End -->
 
 
@@ -373,7 +373,7 @@
         <div class="container">
             <div class="text-center mx-auto mb-5" style="max-width: 500px;">
                 <h5 class="d-inline-block text-primary text-uppercase border-bottom border-5">Testimonial</h5>
-                <h1 class="display-4">Patients Say About Our Services</h1>
+                <h1 class="display-4 text-primary">Patients Say About Our Services</h1>
             </div>
             <div class="row justify-content-center">
                 <div class="col-lg-8">
@@ -423,7 +423,7 @@
 
 
     <!-- Blog Start -->
-    <div class="container-fluid py-5">
+    <!-- <div class="container-fluid py-5">
         <div class="container">
             <div class="text-center mx-auto mb-5" style="max-width: 500px;">
                 <h5 class="d-inline-block text-primary text-uppercase border-bottom border-5">Blog Post</h5>
@@ -438,7 +438,7 @@
                             <p class="m-0">Dolor lorem eos dolor duo et eirmod sea. Dolor sit magna
                                 rebum clita rebum dolor stet amet justo</p>
                         </div>
-                        <!-- <div class="d-flex justify-content-between border-top p-4">
+                        <div class="d-flex justify-content-between border-top p-4">
                             <div class="d-flex align-items-center">
                                 <img class="rounded-circle me-2" src="img/user.jpg" width="25" height="25" alt="">
                                 <small>John Doe</small>
@@ -447,7 +447,7 @@
                                 <small class="ms-3"><i class="far fa-eye text-primary me-1"></i>12345</small>
                                 <small class="ms-3"><i class="far fa-comment text-primary me-1"></i>123</small>
                             </div>
-                        </div> -->
+                        </div>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6">
@@ -458,7 +458,7 @@
                             <p class="m-0">Dolor lorem eos dolor duo et eirmod sea. Dolor sit magna
                                 rebum clita rebum dolor stet amet justo</p>
                         </div>
-                        <!-- <div class="d-flex justify-content-between border-top p-4">
+                        <div class="d-flex justify-content-between border-top p-4">
                             <div class="d-flex align-items-center">
                                 <img class="rounded-circle me-2" src="img/user.jpg" width="25" height="25" alt="">
                                 <small>John Doe</small>
@@ -467,7 +467,7 @@
                                 <small class="ms-3"><i class="far fa-eye text-primary me-1"></i>12345</small>
                                 <small class="ms-3"><i class="far fa-comment text-primary me-1"></i>123</small>
                             </div>
-                        </div> -->
+                        </div>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6">
@@ -478,7 +478,7 @@
                             <p class="m-0">Dolor lorem eos dolor duo et eirmod sea. Dolor sit magna
                                 rebum clita rebum dolor stet amet justo</p>
                         </div>
-                        <!-- <div class="d-flex justify-content-between border-top p-4">
+                        <div class="d-flex justify-content-between border-top p-4">
                             <div class="d-flex align-items-center">
                                 <img class="rounded-circle me-2" src="img/user.jpg" width="25" height="25" alt="">
                                 <small>John Doe</small>
@@ -487,12 +487,12 @@
                                 <small class="ms-3"><i class="far fa-eye text-primary me-1"></i>12345</small>
                                 <small class="ms-3"><i class="far fa-comment text-primary me-1"></i>123</small>
                             </div>
-                        </div> -->
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Blog End -->
     
     <!-- footer -->
